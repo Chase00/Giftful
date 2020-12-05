@@ -1,0 +1,22 @@
+{
+  "name": "giftful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chase00/Giftful.git"
+  },
+  "author": "Chase00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chase00/Giftful/issues"
+  },
+  "homepage": "https://github.com/Chase00/Giftful#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
