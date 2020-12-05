@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Chase00/Giftful#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
   }
 }
